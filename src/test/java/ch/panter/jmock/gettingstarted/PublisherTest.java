@@ -40,7 +40,6 @@ import ch.panter.jmock.gettingstarted.PublisherImpl;
 @RunWith(JMock.class)
 public class PublisherTest {
     
-    
     /** jmock context */
     Mockery context;
     /** instance under test */

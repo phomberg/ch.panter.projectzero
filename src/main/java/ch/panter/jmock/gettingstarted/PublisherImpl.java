@@ -40,5 +40,4 @@ public class PublisherImpl implements IPublisher {
             subscriber.receive(message);    
         }
     }
-
 }
